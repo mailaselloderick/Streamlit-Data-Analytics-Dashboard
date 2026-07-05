@@ -134,13 +134,13 @@ st.write("")
 # LOAD DATASETS
 # ---------------------------------------------------
 
-iris_path = "data/Iris/iris.csv"
+iris_path = "data/iris.csv"
 
-titanic_path = "data/Titanic/Titanic.csv"
+titanic_path = "data/Titanic.csv"
 
-medal_path = "data/Medal/Medal.csv"
+medal_path = "data/Medal.csv"
 
-monthly_path = "data/Monthly Value/Monthly_value.csv"
+monthly_path = "data/Monthly_value.csv"
 
 monthly_df = pd.read_csv(monthly_path)
 
