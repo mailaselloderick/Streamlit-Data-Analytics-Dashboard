@@ -134,7 +134,7 @@ st.write("")
 # LOAD DATASETS
 # ---------------------------------------------------
 
-iris_path = "data/Iris/iris.csv"
+iris_path = "data/Iris/Iris.csv"
 
 titanic_path = "data/titanic/Titanic.csv"
 
